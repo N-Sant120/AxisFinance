@@ -14,7 +14,8 @@ MVP(Produto Mínimo Viável)
         - Dashboard:Contem gráfico interativo do sistema, mostrando horario,data e valor das 
                     transações no estilo Banco de ações. Interativo, possuindo filtro entre dia, semana e ano. Possui 3 linhas principais(gasto diario, valor na conta, gasto mensal).
 
-                    ![alt text](image.png)
+                    <img width="1080" height="719" alt="image" src="https://github.com/user-attachments/assets/2e22b05b-6663-47f4-9452-7dc29a8e0d3a" />
+
         
     #PÁGINA SEGUNDARIA (HISTORICO E PESQUISAS)
         - Histórico: Mostra todas as transações feita pelo usuário. Possuindo um filtro que 
